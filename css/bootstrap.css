@@ -5630,8 +5630,12 @@ button.close {
   display: table;
   content: " ";
 }
+.container:after {
+  clear: both;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
 .clearfix:after,
-.container:after,
 .container-fluid:after,
 .row:after,
 .form-horizontal .form-group:after,
