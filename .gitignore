@@ -3,3 +3,10 @@ NOTES
 git remote add origin git@github.com:paulkarayan/paulkarayan.com.git
   git branch -M main
   git push -u origin main
+
+
+https://opensource.com/article/19/5/run-your-blog-github-pages-python
+pip install pelican ghp-import Markdown
+
+not sure i care about the content split...
+
